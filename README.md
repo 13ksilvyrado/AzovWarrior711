@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, Python, Javascript and lua
 - 💞️ I’m looking to collaborate on the coding languages lua and Python.
-- 📫 How to reach me arson.js#0001
+- 📫 How to reach me high_poly#0001
 
 <!---
 AzovWarrior711/AzovWarrior711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
